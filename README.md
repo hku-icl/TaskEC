@@ -6,7 +6,7 @@ Video demonstrations accompanying the manuscript **"Task-Preserving Embodied Com
 
 ## Video Demonstration
 
-https://github.com/user-attachments/assets/b915e0f3-df3e-4389-ab15-04f4e2ab4ab3
+Uploading Task-Preserving-Embodied-Communication-Demo.mp4…
 
 ## Overview
 
